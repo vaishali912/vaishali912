@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kunwarvaishali@gmail.com**
 
-- ⚡ Fun fact **I think i have a good voice.**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
