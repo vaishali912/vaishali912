@@ -1,6 +1,6 @@
 <h1 align="center>💫About me</h1>
-<p align="center">I'm Vaishali Kunwar, a determined Electronics and Instrumentation  Undergrad at NIT Agartala. My fervor for software engineering propels me to excel in DSA, Competitive Programming, Web Development.
-With a passion for learning, I surpass challenges and am committed to refining my skills for optimal performance. I eagerly seek collaboration and growth opportunities in the tech sector.</p>
+I'm Vaishali Kunwar, a determined Electronics and Instrumentation  Undergrad at NIT Agartala. My fervor for software engineering propels me to excel in DSA, Competitive Programming, Web Development.
+With a passion for learning, I surpass challenges and am committed to refining my skills for optimal performance. I eagerly seek collaboration and growth opportunities in the tech sector.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishali912&label=Profile%20views&color=0e75b6&style=flat" alt="vaishali912" /> </p>
 
