@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaishali Kunwar</h1>
+<h1 align="center>💫About me</h1>
 <p align="center">I'm Vaishali Kunwar, a determined Electronics and Instrumentation  Undergrad at NIT Agartala. My fervor for software engineering propels me to excel in DSA, Competitive Programming, Web Development.
 With a passion for learning, I surpass challenges and am committed to refining my skills for optimal performance. I eagerly seek collaboration and growth opportunities in the tech sector.</h3>
 
