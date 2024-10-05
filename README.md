@@ -1,4 +1,4 @@
-<img align="top" alt="Not againnn..." height="800" width="250" src="https://i.pinimg.com/originals/b5/59/94/b55994e1858fdeb360ccdabccb51026c.gif">
+<img align="top" alt="Not againnn..." height="250" width="800" src="https://i.pinimg.com/originals/b5/59/94/b55994e1858fdeb360ccdabccb51026c.gif">
 <h1 align="center">:woman_technologist:About me</h1>
 <p align="center">I'm Vaishali Kunwar, an Electronics and Instrumentation Undergrad at NIT Agartala. My fervour for software engineering propels me to excel in DSA, Competitive Programming, Web Development.
 </p>
